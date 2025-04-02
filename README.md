@@ -1,4 +1,5 @@
 💰 Expense Tracker
+
 A Python-based application to manage personal finances by tracking income, expenses, and generating spending insights.
 
 ✨ Features
@@ -18,6 +19,7 @@ Python 3
 Libraries: pandas, matplotlib, sqlite3 (or others you used)
 
 File Formats: CSV/JSON/SQLite
+
 🚀 How to Run
 Clone the repo:
 
